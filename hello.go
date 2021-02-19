@@ -6,5 +6,5 @@ import "fmt"
 
 // SayHi 一个打招呼的函数
 func SayHi(name string) {
-	fmt.Printf("你好%s，我是七米。很高兴认识你。\n", name)
+	fmt.Printf("你好%s，我是七米。很高兴认识你~\n", name)
 }

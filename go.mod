@@ -1,3 +1,3 @@
-module github.com/q1mi/hello/v2
+module github.com/q1mi/hello
 
 go 1.16
