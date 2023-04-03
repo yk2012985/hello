@@ -1,3 +1,3 @@
-module github.com/ykk/hello/v2
+module github.com/yk2012985/hello/v2
 
 go 1.19
