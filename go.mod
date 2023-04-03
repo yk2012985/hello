@@ -1,3 +1,3 @@
-module github.com/q1mi/hello
+module github.com/ykk/hello
 
 go 1.16
